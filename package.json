@@ -8,6 +8,6 @@
     "yeoman-generator": "^4.10.1"
   },
   "files": [
-    "generator"
+    "generators"
   ]
 }
